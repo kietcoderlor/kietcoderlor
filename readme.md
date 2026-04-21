@@ -25,6 +25,13 @@
 
 <table>
   <tr>
+    <td width="38%" align="center" valign="middle">
+      <img
+        src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+        alt="anime coding gif"
+        width="100%"
+      />
+    </td>
     <td width="62%" valign="middle">
 
 I’m an undergraduate student at the **University of South Florida (USF)** with strong interests in:
@@ -38,16 +45,6 @@ I’m an undergraduate student at the **University of South Florida (USF)** with
 </ul>
 
 I enjoy building systems that combine **software engineering, AI, and practical deployment**.
-
-   </td>
-   <td width="38%" align="center" valign="middle">
-      <br><br>
-      <img
-        src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-        alt="anime coding gif"
-        height="420"
-      />
-      <br><br>
    </td>
   </tr>
 </table>
