@@ -1,14 +1,18 @@
 <h1 align="center">Hi, I'm Ryan Nguyen 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/kietcoderlor">
-    <img src="https://img.shields.io/badge/GitHub-kietcoderlor-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kietnguyen0409/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kietnguyen0409/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ryan%20Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ryan%20Nguyen-1b1b1b?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tuankiet04097@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:tuankiet04097@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tuankiet04097%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/tuankiet04097%40gmail.com-1b1b1b?style=for-the-badge" />
   </a>
 </p>
 
