@@ -31,7 +31,7 @@
   <tr>
     <td width="38%" align="center" valign="middle">
       <img
-        src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+        src="./assets/coding_dark.gif"
         alt="anime coding gif"
         width="100%"
       />
